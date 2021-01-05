@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🤔 I'm trying.
+- 💬 How to contact me: 
+  - Here is my Email: liangyubingli@gmail.com
+  - My blog: [149.129.59.121](149.129.59.121)
+
+![My Github Status](https://github-readme-stats.vercel.app/api?username=L-Trunks&show_icons=true&theme=tokyonight&count_private=true)
 
 <!--
 **L-Trunks/L-Trunks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
