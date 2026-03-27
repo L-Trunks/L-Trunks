@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+L-Trunks;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Chris;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <em>保持好奇，持续构建</em>
+  <em>保持好奇</em>
 </p>
 
 <p align="center">
@@ -26,57 +26,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ SnapSend</h3>
-      <p align="center">
-        <a href="https://github.com/L-Trunks/snapsend">
-          <img src="https://img.shields.io/badge/TypeScript-65%25-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-31%25-3776AB?style=flat-square&logo=python&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">匿名临时文件与文本分享平台<br/>无需登录，即传即取<br/><b>Next.js 15 + FastAPI + Docker</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎵 MusicApp</h3>
-      <p align="center">
-        <a href="https://github.com/L-Trunks/MusicApp">
-          <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">音乐播放应用</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎤 HipHop</h3>
-      <p align="center">
-        <a href="https://github.com/L-Trunks/hiphop">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        </a>
-        <a href="https://github.com/L-Trunks/hiphop_web">
-          <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">HipHop 项目（前后端分离）<br/><b>JavaScript + Vue</b></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💡 YOC</h3>
-      <p align="center">
-        <a href="https://github.com/L-Trunks/YOC">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        </a>
-      </p>
-      <p align="center">创意项目</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -87,13 +36,15 @@
 
 ### 📊 GitHub Stats
 
+<!-- GitHub Stats: 使用公共实例，如果加载不出来可以自部署 -->
+<!-- 参考: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=L-Trunks&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=L-Trunks&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=L-Trunks&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=L-Trunks&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Trunks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Trunks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=86400" />
 </p>
 
 ---
@@ -108,8 +59,9 @@
 
 ### 🏆 GitHub Trophies
 
+<!-- Trophy: 公共实例可能不稳定，加 margin 和 no-bg 减少加载压力 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=L-Trunks&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=L-Trunks&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
